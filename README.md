@@ -1,1 +1,3 @@
 # AndroidStudioApp
+
+Voi face o aplic in genu Mersul Trenurilor, numai ca mai simplista, cu o pagina de admin care poate sa adauge,stearga,modifice rute.De asemenea se pot verifica unele detalii despre anumite rute dand clik pe ele. To be continued....
